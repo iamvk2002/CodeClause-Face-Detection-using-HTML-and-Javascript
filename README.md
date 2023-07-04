@@ -25,6 +25,9 @@ To get started with Face-Detection, follow these steps:
 4. Grant permission to access your webcam when prompted.
 5. The application will start detecting faces in real-time.
 
+## Library
+You can download the face-api.min.js library from face-api official repository.
+
 For any inquiries or feedback, please reach out to the project maintainer at example@example.com.
 Face-Detection Project Repository
 
